@@ -4,28 +4,29 @@ Bu eğitimde başından sonuna kadar bir terminal uygulaması hazırlayacağız.
 
 - Seri Videoları:
 
-  - Giriş Videosu:
+  - Giriş Videosu: [YouTube](https://youtu.be/tBXiaWpx9Pw)
 
     - Çalışma ortamının ve projenin belirlenmesi
     - Projenin kapsamının belirlenmesi
     - Yapılacak projenin demosu
     - Motivasyon
 
-  - Kodlama [1]
+  - Kodlama [1] *canlı olarak yayınlanacaktır*
 
     - Projenin kodlamasını içeren video
-    - 5 dakikalık bir kısa başlangıç
+    - ~45 dakikalık başlangıç
 
-  - Kodlama [2]
+  - Kodlama [2] *canlı olarak yayınlanacaktır*
 
     - Projenin kodlamasının devamı
-    - 5 dakikalık bitiriş
+    - ~45 dakikalık bitiriş
 
-  - Son dokunuşlar
+  - Son dokunuşlar *canlı olarak yayınlanacaktır*
 
     - Yapılabilecek diğer işler ve yaratıcı fikirler.
 
 Şeklinde dört adet videodan oluşacağını öngördüğüm bir video serisi olacaktır.
+Kodlama videoları canlı olarak yayınlanacaktır.
 
 Şimdiden iyi seyirler dilerim.
 
