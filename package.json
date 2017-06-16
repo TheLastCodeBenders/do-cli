@@ -1,0 +1,27 @@
+{
+  "name": "do-cli-app",
+  "version": "1.0.0",
+  "description": "**Digital Ocean CLI Uygulaması Eğitim Serisi İçeriği**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "do-cli": "./do.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheLastCodeBenders/do-cli.git"
+  },
+  "keywords": [
+    "do",
+    "digitalocean",
+    "cli"
+  ],
+  "author": "Çağatay Çalı",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheLastCodeBenders/do-cli/issues"
+  },
+  "homepage": "https://github.com/TheLastCodeBenders/do-cli#readme"
+}
