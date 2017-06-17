@@ -1,13 +1,13 @@
 {
   "name": "do-cli-app",
   "version": "1.0.0",
-  "description": "**Digital Ocean CLI Uygulaması Eğitim Serisi İçeriği**",
+  "description": "Digital Ocean CLI Uygulaması Eğitim Serisi İçeriği",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "digitalocean.js"
   },
   "bin": {
-    "do-cli": "./do.js"
+    "digitalocean": "./digitalocean.js"
   },
   "repository": {
     "type": "git",

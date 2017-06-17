@@ -11,22 +11,35 @@ Bu eğitimde başından sonuna kadar bir terminal uygulaması hazırlayacağız.
     - Yapılacak projenin demosu
     - Motivasyon
 
-  - Kodlama [1] *canlı olarak yayınlanacaktır*
+  - Kodlama [1] _canlı olarak yayınlanacaktır_
 
     - Projenin kodlamasını içeren video
-    - ~45 dakikalık başlangıç
+    - ~45 dakikalık başlangıç
 
-  - Kodlama [2] *canlı olarak yayınlanacaktır*
+  - Kodlama [2] _canlı olarak yayınlanacaktır_
 
     - Projenin kodlamasının devamı
-    - ~45 dakikalık bitiriş
+    - ~45 dakikalık bitiriş
 
-  - Son dokunuşlar *canlı olarak yayınlanacaktır*
+  - Son dokunuşlar _canlı olarak yayınlanacaktır_
 
     - Yapılabilecek diğer işler ve yaratıcı fikirler.
 
-Şeklinde dört adet videodan oluşacağını öngördüğüm bir video serisi olacaktır.
-Kodlama videoları canlı olarak yayınlanacaktır.
+Şeklinde dört adet videodan oluşacağını öngördüğüm bir video serisi olacaktır. Kodlama videoları canlı olarak yayınlanacaktır.
+
+**Canlı yayın linki**
+
+<https://coool.ws/live>
+
+**How to use ssh keys with digital ocean droplets** <https://www.digitalocean.com/community/tutorials/how-to-use-ssh-keys-with-digitalocean-droplets>
+
+_List all distribution images_ <https://developers.digitalocean.com/documentation/v2/#list-all-distribution-images>
+
+_List all sizes_ <https://developers.digitalocean.com/documentation/v2/#list-all-sizes>
+
+_List all regions_ <https://developers.digitalocean.com/documentation/v2/#list-all-regions>
+
+_Digital ocean referral register link_ <https://coool.ws/do>
 
 Şimdiden iyi seyirler dilerim.
 
