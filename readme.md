@@ -2,6 +2,8 @@
 
 Bu eğitimde başından sonuna kadar bir terminal uygulaması hazırlayacağız.
 
+Bir sonraki canlı eğitim videosunun hangi konu ile ilgili olmasını istiyorsanız [bu depoya issue](https://github.com/TheLastCodeBenders/do-cli/issues/new) olarak açabilirsiniz.
+
 - Seri Videoları:
 
   - Giriş Videosu: [YouTube](https://youtu.be/tBXiaWpx9Pw)
