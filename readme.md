@@ -43,6 +43,6 @@ _Digital ocean referral register link_ <https://coool.ws/do>
 
 Şimdiden iyi seyirler dilerim.
 
-[YouTube](https://www.youtube.com/channel/UCHqSJVhWoSU-Pf1RuC-rFUQ)
+[YouTube](https://www.youtube.com/TheLastCodeBenders)
 
 [Çağatay Çalı](https://github.com/cagataycal)
