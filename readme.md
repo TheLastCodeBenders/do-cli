@@ -1,5 +1,17 @@
 ## Digital Ocean CLI Uygulaması Eğitim Serisi İçeriği
 
+## Kullanım
+
+```bash
+npm i -g do-cli-app
+```
+
+## Npm paketi paylaşma
+
+```bash
+npm publish
+```
+
 Bu eğitimde başından sonuna kadar bir terminal uygulaması hazırlayacağız.
 
 Bir sonraki canlı eğitim videosunun hangi konu ile ilgili olmasını istiyorsanız [bu depoya issue](https://github.com/TheLastCodeBenders/do-cli/issues/new) olarak açabilirsiniz.
