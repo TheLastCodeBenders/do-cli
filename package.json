@@ -1,6 +1,6 @@
 {
   "name": "do-cli-app",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "description": "Digital Ocean CLI Uygulaması Eğitim Serisi İçeriği",
   "main": "index.js",
   "scripts": {
@@ -23,5 +23,14 @@
   "bugs": {
     "url": "https://github.com/TheLastCodeBenders/do-cli/issues"
   },
-  "homepage": "https://github.com/TheLastCodeBenders/do-cli#readme"
+  "homepage": "https://github.com/TheLastCodeBenders/do-cli#readme",
+  "dependencies": {
+    "clipboardy": "^1.1.2",
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "digitalocean": "^0.10.0",
+    "inquirer": "^3.1.0",
+    "moment": "^2.18.1",
+    "nedb": "^1.8.0"
+  }
 }
