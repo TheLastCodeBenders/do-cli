@@ -68,6 +68,9 @@ _nedb_
 _clipboardy_
 <https://www.npmjs.com/package/clipboardy>
 
+Genel JavaScript ES6 Kullanımı (Alpcan Aydın)
+<https://www.youtube.com/watch?v=kRknZ6ejQ_8>
+
 *Şimdiden iyi seyirler dilerim.*
 
 [YouTube](https://www.youtube.com/TheLastCodeBenders)
