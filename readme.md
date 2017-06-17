@@ -1,4 +1,4 @@
-## Digital Ocean CLI Uygulaması Eğitim Serisi İçeriği**
+## Digital Ocean CLI Uygulaması Eğitim Serisi İçeriği
 
 Bu eğitimde başından sonuna kadar bir terminal uygulaması hazırlayacağız.
 
