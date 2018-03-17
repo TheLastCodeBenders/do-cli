@@ -87,4 +87,4 @@ Genel JavaScript ES6 Kullanımı (Alpcan Aydın)
 
 [YouTube](https://www.youtube.com/TheLastCodeBenders)
 
-[Çağatay Çalı](https://github.com/cagataycal)
+[Çağatay Çalı](https://github.com/cagataycali)
